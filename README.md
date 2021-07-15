@@ -6,7 +6,7 @@ We didn't want to use it in the lectures, but believe that it would be very inte
 There are 4 features: sepal length, sepal width, petal length, and petal width.
 data
 Data columns (total 4 columns):
- #   Column        Non-Null Count  Dtype  
+  Column        Non-Null Count  Dtype  
 ---  ------        --------------  -----  
  0   sepal_length  150 non-null    float64
  1   sepal_width   150 non-null    float64
